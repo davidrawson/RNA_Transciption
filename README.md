@@ -18,3 +18,5 @@ C -> G
 T -> A
 
 A -> U
+
+(via Exercism.io)
